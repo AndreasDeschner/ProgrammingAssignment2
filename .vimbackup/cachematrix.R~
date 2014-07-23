@@ -4,7 +4,7 @@
 
 ##
 # For a matrix the following function creates a list containing functions that
-# let one set the matrix, get the matrix, retrieve the inverse of the matrix
+# let's one set the matrix, get the matrix, retrieve the inverse of the matrix
 # or set the inverse of the matrix.
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
